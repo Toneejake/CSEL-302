@@ -6,7 +6,7 @@
 <div id="lecture">
   <h1>Lectures</h1>
   <h4>Here is the compilation of the lectures and lectures task of CSEL 302</h4>
-  <a href="https://github.com/Toneejake/CSEL-302/tree/f8cef8e8548d61c0f639b227f7b59a3c42902c9b/Lectures";">(Github Compilation Link)</a>
+  <a href="https://github.com/Toneejake/CSEL-302/tree/f8cef8e8548d61c0f639b227f7b59a3c42902c9b/Lectures";">(Github Compilation)</a>
   <ul>
     <li><a href="Lectures/Linear_Regression.ipynb">Linear Regression</a></li>
     <li><a href="Lectures/Linear_Regression_Lecture.ipynb">Linear Regression Lecture</a></li>
