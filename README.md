@@ -1,5 +1,10 @@
 <h1>John Kervin D. Evangelista</h1>
 <h2>BSCS-2B</h2><hr>
+
+<h3>Welcome!</h3>
+<h4>Welcome to the compilation webpage of CSEL-302, a compialation of different files that includes codes, links and data sources.</h4>
+<hr>
+<h2>Table of Contents</h2>
 <a href="#lecture" style="font-size: 20px;">Lectures</a><br>
 <a href="#activities" style="font-size: 20px;">Activities</a>
 <hr>
