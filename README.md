@@ -1,8 +1,8 @@
 <h1>John Kervin D. Evangelista</h1>
 <h2>BSCS-2B</h2><hr>
 <a href="#lecture" style="font-size: 20px;">Lectures</a><br>
-<a href="#activities" style="font-size: 20px;">Activities</a><hr>
-
+<a href="#activities" style="font-size: 20px;">Activities</a>
+<hr>
 <div id="lecture">
   <h1>Lectures</h1>
   <h4>Here is the compilation of the lectures and lectures task of CSEL 302</h4>
