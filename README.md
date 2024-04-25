@@ -7,7 +7,7 @@
   <h1>Lectures</h1>
   <h4>Here is the compilation of the lectures and lectures task of CSEL 302</h4>
   <ul>
-    <li><a href="Linear_Regression.ipynb">Linear Regression</a></li>
+    <li><a href="Lectures/Linear_Regression.ipynb">Linear Regression</a></li>
     <li><a href="Linear_Regression_Lecture.ipynb">Linear Regression Lecture</a></li>
     <li><a href="Multiple_Linear_Regression.ipynb">Multiple Linear Regression</a></li>
     <li><a href="Model_Training.ipynb">Model Training</a></li>
