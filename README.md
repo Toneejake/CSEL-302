@@ -1,5 +1,5 @@
 <h1>John Kervin D. Evangelista</h1>
-<h2>BSCS-2B</h2>
+<h2>BSCS-2B</h2><hr>
 <a href="#lecture" style="font-size: 20px;">Lectures</a><br>
 <a href="#activities" style="font-size: 20px;">Activities</a>
 
