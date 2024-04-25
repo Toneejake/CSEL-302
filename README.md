@@ -1,7 +1,7 @@
 <h1>John Kervin D. Evangelista</h1>
 <h2>BSCS-2B</h2><hr>
 <a href="#lecture" style="font-size: 20px;">Lectures</a><br>
-<a href="#activities" style="font-size: 20px;">Activities</a>
+<a href="#activities" style="font-size: 20px;">Activities</a><hr>
 
 <div id="lecture">
   <h1>Lectures</h1>
@@ -13,7 +13,7 @@
     <li><a href="Model_Training.ipynb">Model Training</a></li>
   </ul>
 </div>
-
+<hr>
 <div id="activities">
   <h1>Activities</h1>
   <h4>Here is the compilation of my task and activities on CSEL 302</h4>
@@ -28,7 +28,8 @@
   <li><a href="2B_EVANGELISTA_MIDTERM.ipynb">Midterm Activity</a></li>
   </ul>
 </div>
-
+<hr>
+<hr>
 <div>
   <a href="https://github.com/Toneejake/CSEL-302/tree/fa8ff38af2c3975e9a308386f3e5dc05ed963042/Data%20Sources" style="font-size: 20px;">Data Sources</a>
 </div>
