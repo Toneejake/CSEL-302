@@ -8,7 +8,6 @@
   <h2>Here is the compilation of the lectures and lectures task of CSEL 302</h2>
   <ul>
     <li><a href="Data_manipulation_and_visualization.ipynb">Data Manipulation and Visualization</a></li>
-    <li><a href="Evangelista_Working_with_Data.ipynb">Working with data</a></li>
     <li><a href="Linear_Regression.ipynb">Linear Regression</a></li>
     <li><a href="Linear_Regression_Lecture.ipynb">Linear Regression Lecture</a></li>
     <li><a href="Multiple_Linear_Regression.ipynb">Multiple Linear Regression</a></li>
@@ -20,6 +19,7 @@
   <h1>Activities</h1>
   <h2>Here is the compilation of my task and activities on CSEL 302</h2>
   <ul>
+  <li><a href="Evangelista_Working_with_Data.ipynb">Working with data</a></li>
   <li><a href="The_adventure_of_Detetivesn't.ipynb">Detectives activities</a></li>
   <li><a href="2B_EVANGELISTA_EXER4.ipynb">Exercise 4</a></li>
   <li><a href="2B_EVANGELISTA_EXER5.ipynb">Exercise 5</a></li>
