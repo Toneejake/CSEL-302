@@ -3,6 +3,11 @@
 <a href="#lecture">Lectures</a><br>
 <a href="#activities">Activities</a>
 
+<form>
+    <input type="search" name="query" placeholder="Search here">
+    <button type="submit">Search</button>
+</form>
+
 <div id="lecture">
   <h1>Lectures</h1>
   <h2>Here is the compilation of the lectures and lectures task of CSEL 302</h2>
