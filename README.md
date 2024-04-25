@@ -18,14 +18,14 @@
   <h1>Activities</h1>
   <h4>Here is the compilation of my task and activities on CSEL 302</h4>
   <ul>
-  <li><a href="Data_manipulation_and_visualization,.ipynb">Data Manipulation and Visualization</a></li>
-  <li><a href="Evangelista_Working_with_Data.ipynb">Working with data</a></li>
-  <li><a href="The_adventure_of_Detetivesn't.ipynb">Detectives activities</a></li>
-  <li><a href="2B_EVANGELISTA_EXER4.ipynb">Exercise 4</a></li>
-  <li><a href="2B_EVANGELISTA_EXER5.ipynb">Exercise 5</a></li>
-  <li><a href="2B_EVANGELISTA_EXER6.ipynb">Exercise 6</a></li>
-  <li><a href="2B_EVANGELISTA_EXER7.ipynb">Exercise 7</a></li>
-  <li><a href="2B_EVANGELISTA_MIDTERM.ipynb">Midterm Activity</a></li>
+  <li><a href="Activities/Data_manipulation_and_visualization,.ipynb">Data Manipulation and Visualization</a></li>
+  <li><a href="Activities/Evangelista_Working_with_Data.ipynb">Working with data</a></li>
+  <li><a href="Activities/The_adventure_of_Detetivesn't.ipynb">Detectives activities</a></li>
+  <li><a href="Activities/2B_EVANGELISTA_EXER4.ipynb">Exercise 4</a></li>
+  <li><a href="Activities/2B_EVANGELISTA_EXER5.ipynb">Exercise 5</a></li>
+  <li><a href="Activities/2B_EVANGELISTA_EXER6.ipynb">Exercise 6</a></li>
+  <li><a href="Activities/2B_EVANGELISTA_EXER7.ipynb">Exercise 7</a></li>
+  <li><a href="Activities/2B_EVANGELISTA_MIDTERM.ipynb">Midterm Activity</a></li>
   </ul>
 </div>
 <hr>
