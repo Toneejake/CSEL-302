@@ -18,6 +18,7 @@
 <div id="activities">
   <h1>Activities</h1>
   <h4>Here is the compilation of my task and activities on CSEL 302</h4>
+  <a href="https://github.com/Toneejake/CSEL-302/tree/cac21475463921d55946cbb0b697044acbff673e/Activities">Github Compilation</a>
   <ul>
   <li><a href="Activities/Data_manipulation_and_visualization,.ipynb">Data Manipulation and Visualization</a></li>
   <li><a href="Activities/Evangelista_Working_with_Data.ipynb">Working with data</a></li>
