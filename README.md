@@ -30,5 +30,5 @@
 </div>
 
 <div>
-  <a href="https://github.com/Toneejake/CSEL-302/tree/fa8ff38af2c3975e9a308386f3e5dc05ed963042/Data%20Sources">Data Sources</a>
+  <a href="https://github.com/Toneejake/CSEL-302/tree/fa8ff38af2c3975e9a308386f3e5dc05ed963042/Data%20Sources" style="font-size: 20px;">Data Sources</a>
 </div>
